@@ -1,0 +1,20 @@
+{
+  "id": "wallarchyDms",
+  "name": "Wallarchy",
+  "category": "monitoring",
+  "description": "Browse SFW Wallhaven wallpapers and apply them directly through DMS.",
+  "version": "1.0.0",
+  "author": "Al Amin",
+  "type": "widget",
+  "capabilities": ["dankbar-widget", "wallpaper", "network"],
+  "repo": "https://github.com/alamin147/wallarchyDms",
+  "component": "./Wallarchy.qml",
+  "icon": "wallpaper",
+  "startupCheck": "./StartupCheck.qml",
+  "requires_dms": ">=1.0.0",
+  "compositors": ["any"],
+  "distro": ["any"],
+  "dependencies": ["curl"],
+  "permissions": ["settings_read", "settings_write", "process", "network"],
+  "screenshot": "https://url/to/screenshot.png"
+}
