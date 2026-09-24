@@ -16,5 +16,5 @@
   "distro": ["any"],
   "dependencies": ["curl"],
   "permissions": ["settings_read", "settings_write", "process", "network"],
-  "screenshot": "https://url/to/screenshot.png"
+  "screenshot": "https://raw.githubusercontent.com/alamin147/wallarchyDms/main/screenshot.png"
 }
