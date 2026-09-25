@@ -24,12 +24,9 @@ Wallarchy is a [DankMaterialShell](https://github.com/AvengeMedia/DankMaterialSh
 
 ## Installation
 ```bash
-    dms plugins install wallarchyDms
+dms plugins install wallarchyDms
 ```
 
-```text
-~/.config/DankMaterialShell/plugins/wallarchyDms/
-```
 
 Then restart DMS.
 
