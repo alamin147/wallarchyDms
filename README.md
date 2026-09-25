@@ -19,12 +19,13 @@ Wallarchy is a [DankMaterialShell](https://github.com/AvengeMedia/DankMaterialSh
 
 ## Requirements
 
-* DankMaterialShell >= 1.0.0
+* DankMaterialShell >= 1.6.0
 * `curl`
 
 ## Installation
-
-Install from the DMS plugin browser, or manually place the plugin in:
+```bash
+    dms plugins install wallarchyDms
+```
 
 ```text
 ~/.config/DankMaterialShell/plugins/wallarchyDms/
